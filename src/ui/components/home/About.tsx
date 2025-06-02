@@ -43,7 +43,7 @@ export const About: React.FC = () => {
               
               <p className="text-lg text-gray-600 mb-6">
                 Somos un equipo apasionado de expertos en tecnología dedicados a crear soluciones digitales excepcionales.
-                Desde 2013, hemos ayudado a empresas de todos los tamaños a transformar sus ideas en realidades digitales.
+                Desde 2020, hemos ayudado a empresas de todos los tamaños a transformar sus ideas en realidades digitales.
               </p>
               
               <p className="text-lg text-gray-600 mb-8">

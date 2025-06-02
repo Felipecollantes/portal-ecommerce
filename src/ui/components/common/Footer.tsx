@@ -37,16 +37,15 @@ export const Footer: React.FC = () => {
           <div>
             <h4 className="text-lg font-semibold text-white mb-4">Contacto</h4>
             <address className="not-italic text-sm">
-              <p className="mb-2">Calle Principal 123</p>
-              <p className="mb-2">Madrid, España 28001</p>
+              <p className="mb-2">Cádiz, España 11008</p>
               <p className="mb-2">
                 <a href="mailto:info@portalecommerce.com" className="hover:text-primary transition-colors">
                   info@portalecommerce.com
                 </a>
               </p>
               <p>
-                <a href="tel:+34912345678" className="hover:text-primary transition-colors">
-                  +34 91 234 56 78
+                <a href="tel:+34600626674" className="hover:text-primary transition-colors">
+                  +34 600 62 66 74 / +34 638 00 74 06
                 </a>
               </p>
             </address>

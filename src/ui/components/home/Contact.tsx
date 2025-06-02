@@ -49,7 +49,7 @@ export const Contact: React.FC = () => {
                     </div>
                     <div className="ml-4">
                       <h4 className="text-md font-medium text-gray-800">Dirección</h4>
-                      <p className="text-gray-600 mt-1">Calle Principal 123, Madrid, España 28001</p>
+                      <p className="text-gray-600 mt-1">Cádiz, España 11008</p>
                     </div>
                   </div>
                   
@@ -72,8 +72,8 @@ export const Contact: React.FC = () => {
                       </svg>
                     </div>
                     <div className="ml-4">
-                      <h4 className="text-md font-medium text-gray-800">Teléfono</h4>
-                      <p className="text-gray-600 mt-1">+34 91 234 56 78</p>
+                      <h4 className="text-md font-medium text-gray-800">Teléfonos</h4>
+                      <p className="text-gray-600 mt-1">+34 600 62 66 74 / +34 638 00 74 06</p>
                     </div>
                   </div>
                   
@@ -85,7 +85,8 @@ export const Contact: React.FC = () => {
                     </div>
                     <div className="ml-4">
                       <h4 className="text-md font-medium text-gray-800">Horario</h4>
-                      <p className="text-gray-600 mt-1">Lunes a Viernes: 9:00 - 18:00</p>
+                      <p className="text-gray-600 mt-1">Lunes a Jueves: 9:00 - 18:00</p>
+                      <p className="text-gray-600 mt-1">Viernes: 9:00 - 15:00</p>
                     </div>
                   </div>
                 </div>
