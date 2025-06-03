@@ -8,7 +8,7 @@ export const Footer: React.FC = () => {
       <div className="container">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold text-white mb-4">PortalEcommerce</h3>
+            <h3 className="text-xl font-bold text-white mb-4">Biotech Soluciones</h3>
             <p className="text-sm">
               Transformamos ideas en soluciones digitales modernas y efectivas para empresas de todos los tamaños.
             </p>
@@ -39,8 +39,8 @@ export const Footer: React.FC = () => {
             <address className="not-italic text-sm">
               <p className="mb-2">Cádiz, España 11008</p>
               <p className="mb-2">
-                <a href="mailto:info@portalecommerce.com" className="hover:text-primary transition-colors">
-                  info@portalecommerce.com
+                <a href="mailto:info@biotechsoluciones.com" className="hover:text-primary transition-colors">
+                  info@biotechsoluciones.com
                 </a>
               </p>
               <p>
@@ -53,7 +53,7 @@ export const Footer: React.FC = () => {
         </div>
         
         <div className="mt-12 pt-6 border-t border-gray-700 text-sm text-center">
-          <p>&copy; {year} PortalEcommerce. Todos los derechos reservados.</p>
+          <p>&copy; {year} Biotech Soluciones. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>

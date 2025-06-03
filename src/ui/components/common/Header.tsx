@@ -9,7 +9,7 @@ export const Header: React.FC = () => {
       <div className="container py-4 flex items-center justify-between">
         <div className="flex items-center">
           <a href="/" className="text-2xl font-bold text-primary">
-            PortalEcommerce
+            Biotech Soluciones
           </a>
         </div>
         
