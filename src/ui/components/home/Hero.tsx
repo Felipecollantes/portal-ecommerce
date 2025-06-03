@@ -16,7 +16,7 @@ export const Hero: React.FC = () => {
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-gray-900 mb-6">
                 Soluciones Digitales <span className="text-primary">Personalizadas</span>
               </h1>
-              <p className="text-lg text-gray-600 mb-8">
+              <p className="text-lg text-gray-600 mb-8" style={{ textAlign: "justify" }}>
                 Transformamos ideas en realidades digitales. Ofrecemos servicios de desarrollo web y 
                 comercio electrónico de alta calidad para hacer crecer tu negocio. 
                 En nuestro estudio digital trabajamos contigo de principio a fin para dar vida a tu proyecto online. 

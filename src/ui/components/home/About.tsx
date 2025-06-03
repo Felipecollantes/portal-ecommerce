@@ -41,7 +41,7 @@ export const About: React.FC = () => {
                 Quiénes Somos
               </h2>
               
-              <p className="text-lg text-gray-600 mb-6">
+              <p className="text-lg text-gray-600 mb-6" style={{ textAlign: "justify" }}>
                 Somos un equipo apasionado de expertos en tecnología dedicados a crear soluciones digitales excepcionales.
                 Desde 2020, hemos ayudado a empresas de todos los tamaños a transformar sus ideas en realidades digitales.
                 Combinamos diseño, desarrollo y estrategia para ayudar a empresas, emprendedores y marcas a destacar en internet. 
@@ -49,7 +49,7 @@ export const About: React.FC = () => {
                 Más que un proveedor, queremos ser tu aliado digital, acompañándote en cada etapa del crecimiento de tu proyecto.
               </p>
               
-              <p className="text-lg text-gray-600 mb-8">
+              <p className="text-lg text-gray-600 mb-8" style={{ textAlign: "justify" }}>
                 Nuestro enfoque se centra en entender las necesidades únicas de cada cliente para ofrecer
                 soluciones personalizadas que generen resultados tangibles. Combinamos tecnología de vanguardia
                 con estrategias efectivas para impulsar el crecimiento de tu negocio.
