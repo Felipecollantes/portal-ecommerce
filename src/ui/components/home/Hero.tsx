@@ -18,7 +18,11 @@ export const Hero: React.FC = () => {
               </h1>
               <p className="text-lg text-gray-600 mb-8">
                 Transformamos ideas en realidades digitales. Ofrecemos servicios de desarrollo web y 
-                comercio electrónico de alta calidad para hacer crecer tu negocio.
+                comercio electrónico de alta calidad para hacer crecer tu negocio. 
+                En nuestro estudio digital trabajamos contigo de principio a fin para dar vida a tu proyecto online. 
+                Diseñamos y desarrollamos páginas web y tiendas online a medida, con especial atención a la funcionalidad, el diseño y la experiencia del usuario. 
+                Además, ofrecemos soporte y mantenimiento continuo para que tu web esté siempre actualizada, segura y funcionando al máximo. 
+                Nos comprometemos con cada cliente, ofreciendo un trato cercano, soluciones personalizadas y resultados que marcan la diferencia.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button 

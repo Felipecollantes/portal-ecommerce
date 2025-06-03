@@ -4,9 +4,9 @@ import { motion } from 'framer-motion';
 export const About: React.FC = () => {
   const stats = [
     { value: '10+', label: 'Años de Experiencia' },
-    { value: '200+', label: 'Proyectos Completados' },
+    { value: '50+', label: 'Proyectos Completados' },
     { value: '50+', label: 'Clientes Satisfechos' },
-    { value: '15+', label: 'Expertos en el Equipo' }
+    { value: '2+', label: 'Expertos en el Equipo' }
   ];
 
   return (
@@ -44,6 +44,9 @@ export const About: React.FC = () => {
               <p className="text-lg text-gray-600 mb-6">
                 Somos un equipo apasionado de expertos en tecnología dedicados a crear soluciones digitales excepcionales.
                 Desde 2020, hemos ayudado a empresas de todos los tamaños a transformar sus ideas en realidades digitales.
+                Combinamos diseño, desarrollo y estrategia para ayudar a empresas, emprendedores y marcas a destacar en internet. 
+                Nuestro enfoque es cercano y transparente: escuchamos tus ideas, entendemos tus necesidades y trabajamos contigo para construir una presencia online sólida, atractiva y efectiva. 
+                Más que un proveedor, queremos ser tu aliado digital, acompañándote en cada etapa del crecimiento de tu proyecto.
               </p>
               
               <p className="text-lg text-gray-600 mb-8">
